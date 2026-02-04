@@ -17,7 +17,6 @@ The `data.zip` file contains essential datasets:
 - `Pfam-A.regions.tsv.gz` - Pfam protein domain regions
 - `variant_summary.txt.gz` - Variant information summary
 
-The data.zip is 176mb and exceeds githubs file size limit. DM me and I will send you the file.
 
 ## Getting Started 🚀
 1. Clone this repository
@@ -29,4 +28,5 @@ The data.zip is 176mb and exceeds githubs file size limit. DM me and I will send
 - R (recommended version 4.0+)
 - Bioconductor packages
 - RStudio (for optimal R Markdown rendering)
+
 
